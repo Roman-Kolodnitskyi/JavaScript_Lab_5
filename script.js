@@ -18,7 +18,7 @@ async function loadCategories() {
 // Головна сторінка
 async function renderHome() {
   const app = $('#app'); app.innerHTML='';
-  app.appendChild(el('h1',null,'Вітаємо в каталозі SPA'));
+  app.appendChild(el('h1',null,'Вітаємо в каталозі'));
   app.appendChild(el('p',null,'Натисніть на категорію, щоб переглянути товари.'));
 
   try {
@@ -122,3 +122,4 @@ $('#nav-specials').addEventListener('click',async ()=>{
 
 // Ініціалізація
 renderHome();
+
