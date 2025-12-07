@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Електроніка", "shortname": "electronics", "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae." },
+  { "id": 2, "name": "Одяг", "shortname": "clothing", "notes": "Lorem ipsum dolor sit amet." },
+  { "id": 3, "name": "Книги", "shortname": "books", "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae." },
+  { "id": 4, "name": "Послуги", "shortname": "services", "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae." }
+]

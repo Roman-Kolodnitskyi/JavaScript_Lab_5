@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "shortname": "electronics",
+  "name": "Електроніка",
+  "notes": "Гаджети і пристрої",
+  "items": [
+    { "id": 100, "name": "Iphone 15", "shortname": "X1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae.", "price": "32 999 UAH" },
+    { "id": 101, "name": "Airpods Pro", "shortname": "HeadPro", "description": "Шумопоглинання, бездротові.", "price": "5 499 UAH" },
+    { "id": 102, "name": "Apple watch", "shortname": "Band", "description": "Відстеження кроків і сну.", "price": "12 799 UAH" },
+    { "id": 103, "name": "Beats", "shortname": "Speaker", "description": "Водонепроникна колонка.", "price": "1 299 UAH" }
+  ]
+}

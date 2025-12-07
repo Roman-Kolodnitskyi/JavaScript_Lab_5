@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "shortname": "services",
+  "name": "Послуги",
+  "notes": "Набір послуг",
+  "items": [
+    { "id": 400, "name": "Ремонт телефону", "shortname": "Repair", "description": "Швидкий ремонт і заміна деталей.", "price": "від 300 UAH" },
+    { "id": 401, "name": "Дизайн", "shortname": "Design", "description": "Послуги з веб-дизайну.", "price": "від 1500 UAH" },
+    { "id": 402, "name": "Консультація", "shortname": "Consult", "description": "Онлайн-консультація по проекту.", "price": "від 500 UAH" }
+  ]
+}

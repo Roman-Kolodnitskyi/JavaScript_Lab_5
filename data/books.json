@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "shortname": "books",
+  "name": "Книги",
+  "notes": "Розділ літератури",
+  "items": [
+    { "id": 300, "name": "Воно", "shortname": "A", "description": "Lorem ipsum.", "price": "500 UAH" },
+    { "id": 301, "name": "Тигролови", "shortname": "B", "description": "Lorem ipsum.", "price": "500 UAH" },
+    { "id": 302, "name": "Берсерк", "shortname": "C", "description": "Lorem ipsum.", "price": "249 UAH" }
+  ]
+}

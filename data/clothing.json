@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "shortname": "clothing",
+  "name": "Одяг",
+  "notes": "Колекція сезону",
+  "items": [
+    { "id": 200, "name": "Футболка", "shortname": "Tshirt", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae.", "price": "399 UAH" },
+    { "id": 201, "name": "Джинси", "shortname": "Jeans", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae.", "price": "999 UAH" },
+    { "id": 202, "name": "Куртка", "shortname": "Jacket", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae.", "price": "2 499 UAH" },
+    { "id": 203, "name": "Кросівки", "shortname": "Sneaks", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae.", "price": "1 899 UAH" }
+  ]
+}
