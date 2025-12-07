@@ -26,7 +26,6 @@ async function renderHome() {
     const list = el('div','category-list');
     cats.forEach(cat=>{
       const div = el('div','category-item');
-      // Картинка категорії
       const img = el('img');
       img.src = cat.img || 'https://via.placeholder.com/200';
       img.alt = cat.name;
@@ -123,5 +122,3 @@ $('#nav-specials').addEventListener('click',async ()=>{
 
 // Ініціалізація
 renderHome();
-
-
